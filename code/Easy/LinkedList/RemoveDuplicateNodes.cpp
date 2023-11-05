@@ -1,3 +1,4 @@
+// uses a while loop to traverse the nodes and remove duplicates with pointer rearrangement
 using namespace std;
 // This is an input struct. Do not edit.
 class LinkedList{
