@@ -1,6 +1,6 @@
+// Solution 1: Using a vector and binary search : Time: O(n^2) Space: O(1)
 #include <vector>
 using namespace std;
-// Time: O(n^2) Space: O(1)
 vector<int> twoNumberSum(vector<int> array, int targetSum) {
   vector<int>targets;
   int sum = 0; 
